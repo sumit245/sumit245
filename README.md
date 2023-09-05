@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on mobile and web app development `<br>`👯 I’m looking to collaborate on native application development `<br>`💬 Ask me about native application development `<br>`⚡ Fun fact - Coding is like drill, seems impossible at begining but fluent as you go with it
+🔭 I’m currently working on mobile and web app development<br>👯 I’m looking to collaborate on native application development <br>💬 Ask me about native application development <br>⚡ Fun fact - Coding is like drill, seems impossible at begining but fluent as you go with it
 
 ## 🌐 Socials:
 
