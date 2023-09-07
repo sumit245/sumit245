@@ -44,8 +44,6 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639)
 
-
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sumit245&icon=0&color=10)](https://visitcount.itsvg.in)
