@@ -1,6 +1,6 @@
 # 💫 Sumit Ranjan Pratihast is:
 
-🔭 currently working on mobile and web app development<br>👯 looking to collaborate on native application development <br>💬 Ask him about native application development <br>
+🔭 currently working on mobile and web app development<br>👯 looking to collaborate on native application development <br>💬 ask him about native application development <br>
 
 ## 🌐 Socials:
 
